@@ -2,7 +2,7 @@
 A simple Electron React app boilerplate running in one process
 
 
-# Instruction
+# Instructions
 
 - Clone Repository
 - yarn or npm install
